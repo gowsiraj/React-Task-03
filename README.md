@@ -1,6 +1,6 @@
-<h4>REACT TODO TASk</h4>
+<h4>REACT TODO TASK:</h4>
 <h3>FRONT END:HTML,CSS,BOOTSTRAP and REACT.JS</h3>
-<img src=""/>
+<img src="todotask.png"/>
 
 
 
